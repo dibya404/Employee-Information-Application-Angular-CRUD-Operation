@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "assad",
+      "lastName": "asd",
+      "email": "kl@gmail.com",
+      "mobile": "103330101",
+      "salary": "10,000"
+    },
+    {
+      "id": 4,
+      "firstName": "asd",
+      "lastName": "asd",
+      "email": "kamals@gmail.com",
+      "mobile": "1293820912380",
+      "salary": "40,000"
+    },
+    {
+      "id": 5,
+      "firstName": "abc",
+      "lastName": "def",
+      "email": "abc@gmail.com",
+      "mobile": "1203928390",
+      "salary": "234234"
+    },
+    {
+      "id": 6,
+      "firstName": "nafy",
+      "lastName": "kamal",
+      "email": "kamal@gmail.com",
+      "mobile": "341414",
+      "salary": "1233"
+    },
+    {
+      "id": 7,
+      "firstName": "jamy",
+      "lastName": "asd",
+      "email": "sdasd@gm.com",
+      "mobile": "12123123",
+      "salary": "123"
+    },
+    {
+      "id": 8,
+      "firstName": "nafy",
+      "lastName": "tset",
+      "email": "tset@jh.com",
+      "mobile": "234324",
+      "salary": "213"
+    },
+    {
+      "id": 9,
+      "firstName": "nafy",
+      "lastName": "kamal",
+      "email": "kamal@fd.com",
+      "mobile": "123123",
+      "salary": "12"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
